@@ -95,7 +95,10 @@ const dictionary = [
   '12s',
   'Mariners',
   'Sounders',
-  'Stefan Frei’s hair, though'
+  'Stefan Frei’s hair, though',
+  'Emerald City Comic Con',
+  'PAX West',
+  'Bumbershoot'
 ]
 
 export default dictionary
