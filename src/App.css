@@ -1,7 +1,19 @@
 .App {
   font-family: 'Libre Franklin', sans-serif;
-  margin: 0 2rem;
+  margin: 0 1rem;
   max-width: 30rem;
+}
+
+@media (min-width: 21rem) {
+  .App {
+    margin: 0 2rem;
+  }
+}
+
+@media (min-width: 32rem) {
+  .App {
+    margin: 0 auto;
+  }
 }
 
 .App p {
