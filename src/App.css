@@ -1,14 +1,11 @@
 .App {
   font-family: 'Libre Franklin', sans-serif;
-  margin: 0 auto;
+  margin: 0 2rem;
   max-width: 30rem;
 }
 
 .App p {
   line-height: 1.5em;
-}
-
-.App-header {
 }
 
 .App-content {
