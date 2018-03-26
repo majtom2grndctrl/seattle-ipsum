@@ -1,5 +1,4 @@
-import React, { Component } from 'react'
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
+import React from 'react'
 import Lorem from 'react-lorem-component'
 import dictionary from './dictionary'
 import './App.css'
