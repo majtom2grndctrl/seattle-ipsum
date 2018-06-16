@@ -3,6 +3,7 @@ const dictionary = [
   'Queen Anne',
   'Capitol Hill',
   'Fremont',
+  'Frelard',
   'Ballard',
   'South Lake Union',
   'Wallingford',
@@ -21,6 +22,7 @@ const dictionary = [
   'work sesh at the KEXP community space',
   'dogs everywhere',
   'flannel everywhere',
+  'teriyaki restaurants everywhere',
   'rain, rain, and more rain',
   'IsItRainingInSeattle.com',
   'people complaining about the rain',
@@ -98,7 +100,11 @@ const dictionary = [
   'Stefan Frei’s hair, though',
   'Emerald City Comic Con',
   'PAX West',
-  'Bumbershoot'
+  'Bumbershoot',
+  'Jesus Christ Made Seattle Under Protest',
+  'Woodland Park Zoo',
+  'riding a ferry to work',
+  'taking a tour of the Seattle Underground every time someone comes to visit'
 ]
 
 export default dictionary
