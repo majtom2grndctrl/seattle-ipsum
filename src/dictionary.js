@@ -24,7 +24,6 @@ const dictionary = [
   'flannel everywhere',
   'teriyaki restaurants everywhere',
   'rain, rain, and more rain',
-  'IsItRainingInSeattle.com',
   'people complaining about the rain',
   'taking the monorail to avoid parking downtown',
   'Museum of Flight',
