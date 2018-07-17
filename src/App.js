@@ -1,4 +1,4 @@
-import React from 'react'
+import { h } from 'preact'
 import Lorem from 'react-lorem-component'
 import dictionary from './dictionary'
 import './App.css'
