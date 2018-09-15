@@ -5,9 +5,9 @@
   "homepage": "https://distantlyyours.github.io/seattle-ipsum",
   "dependencies": {
     "@just-boris/preact-scripts": "1.1.4",
-    "preact": "^8.3.1",
-    "preact-compat": "^3.18.4",
-    "react-lorem-component": "^0.13.0"
+    "preact": "8.3.1",
+    "preact-compat": "3.18.4",
+    "react-lorem-component": "0.13.0"
   },
   "scripts": {
     "start": "react-scripts start",
