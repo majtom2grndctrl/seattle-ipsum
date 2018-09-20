@@ -32,7 +32,7 @@
       {
         "root": "./node_modules",
         "alias": {
-          "react": "preact-compat"
+          "react": "preact"
         }
       }
     ]
